@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">João Vitor Regis</title>
+  <desc id="desc">Desenvolvimento, educação e tecnologia para a comunidade.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1726"/><stop offset="1" stop-color="#123847"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#78b8bd" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M900 0L720 320M1130 0L950 320" stroke="#61e2bf" stroke-opacity=".09" stroke-width="90"/>
+  <rect x="64" y="61" width="48" height="5" rx="2.5" fill="#65e3bd"/>
+  <text x="64" y="107" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#65e3bd">TECNOLOGIA COM PROPÓSITO</text>
+  <text x="60" y="179" font-family="Arial, sans-serif" font-size="57" font-weight="700" fill="#f2f7fb">João Vitor Regis</text>
+  <text x="64" y="222" font-family="Arial, sans-serif" font-size="23" fill="#bfd1dc">Desenvolvimento, educação e comunidade.</text>
+  <g transform="translate(940 96)" fill="none" stroke="#65e3bd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-28" y="-17" width="164" height="164" rx="28" stroke-opacity=".18"/>
+    <path d="M32 37L6 65L32 93M76 37L102 65L76 93M63 27L45 103"/>
+    <circle cx="126" cy="136" r="7" fill="#65e3bd" stroke="none"/>
+  </g>
+</svg>
