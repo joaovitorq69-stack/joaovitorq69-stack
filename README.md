@@ -16,11 +16,11 @@ Atualmente, estou trabalhando nos protótipos do **Mappia** e do **Aedes Data La
 
 | Projeto | O que você encontra | Etapa |
 | :--- | :--- | :--- |
-| [Aulas de desenvolvimento web](https://github.com/joaovitorq69-stack/Aula-de-Desenvolvimento-web) | PDFs, exemplos e registros de quatro encontros de HTML, CSS e JavaScript. | Materiais publicados |
-| [Automação do ônibus universitário](https://github.com/joaovitorq69-stack/Automacao-WhatsApp-Onibus) | Automação de listas no WhatsApp com Node.js, executada em um celular Android com Termux. | Implantada no Android |
-| [Mappia](https://github.com/joaovitorq69-stack/Mappia) | Telas no Figma, PRD e Product Backlog para uma plataforma de registro de problemas do bairro. | Protótipo |
-| [Aedes Data Lab](https://github.com/joaovitorq69-stack/Aedes-Data-Lab) | Wireframes e fluxos de uma plataforma voltada à prevenção da dengue. | Wireframes |
+| [Aulas de desenvolvimento web](https://github.com/joaovitorregis/Aula-de-Desenvolvimento-web) | PDFs, exemplos e registros de quatro encontros de HTML, CSS e JavaScript. | Materiais publicados |
+| [Automação do ônibus universitário](https://github.com/joaovitorregis/Automacao-WhatsApp-Onibus) | Automação de listas no WhatsApp com Node.js, executada em um celular Android com Termux. | Implantada no Android |
+| [Mappia](https://github.com/joaovitorregis/Mappia) | Telas no Figma, PRD e Product Backlog para uma plataforma de registro de problemas do bairro. | Protótipo |
+| [Aedes Data Lab](https://github.com/joaovitorregis/Aedes-Data-Lab) | Wireframes e fluxos de uma plataforma voltada à prevenção da dengue. | Wireframes |
 
 ## Atividades acadêmicas
 
-Exercícios e atividades de Python em [Coding-Python-P2](https://github.com/joaovitorq69-stack/Coding-Python-P2).
+Exercícios e atividades de Python em [Coding-Python-P2](https://github.com/joaovitorregis/Coding-Python-P2).
