@@ -23,4 +23,4 @@ Atualmente, estou trabalhando nos protótipos do **Mappia** e do **Aedes Data La
 
 ## Atividades acadêmicas
 
-Meus exercícios e atividades de Python estão na pasta [João-Vitor — DISCIPLINACCP2](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor).
+Meus exercícios e atividades de Python estão na pasta [João-Vitor](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor).
