@@ -1,6 +1,6 @@
 # João Vitor Regis
 
-**Graduando em Ciência da Computação · Tutor de Web Coding**
+**Graduando em Ciência da Computação**
 
 ## Sobre mim
 
