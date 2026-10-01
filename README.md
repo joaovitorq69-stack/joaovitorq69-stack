@@ -23,4 +23,4 @@ Atualmente, estou trabalhando nos protótipos do **Mappia** e do **Aedes Data La
 
 ## Atividades acadêmicas
 
-Exercícios e atividades de Python em [Coding-Python-P2](https://github.com/joaovitorregis/Coding-Python-P2).
+Exercícios e atividades de Python em [DisciplinaP2/João-Vitor]([https://github.com/joaovitorregis/Coding-Python-P2](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor)).
