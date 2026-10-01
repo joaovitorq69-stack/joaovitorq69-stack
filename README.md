@@ -4,9 +4,9 @@
 
 ## Sobre mim
 
-Estudo desenvolvimento web e programação. Sou tutor de Web Coding e compartilho aqui os materiais das aulas, minhas automações e os projetos que estou desenvolvendo.
+Sou graduando em Ciência da Computação, com interesse em desenvolvimento web e automação. Atuei como tutor de Web Coding e reuni aqui os materiais das aulas que ministrei, além dos meus projetos e atividades acadêmicas.
 
-Atualmente, estou trabalhando nos protótipos do **Mappia** e do **Aedes Data Lab**.
+Atualmente, desenvolvo os protótipos do **Mappia** e do **Aedes Data Lab**.
 
 ## Linguagens e ferramentas
 
