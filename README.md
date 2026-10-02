@@ -4,9 +4,9 @@
 
 ## Sobre mim
 
-Sou graduando em Ciência da Computação, com interesse em desenvolvimento web e automação. Atuei como tutor de Web Coding e reuni aqui os materiais das aulas que ministrei, além dos meus projetos e atividades acadêmicas.
+Estudo desenvolvimento web e automação. Atuei como tutor de Web Coding e compartilho os materiais das aulas que ministrei, meus projetos e atividades acadêmicas.
 
-Atualmente, desenvolvo os protótipos do **Mappia** e do **Aedes Data Lab**.
+Atualmente, trabalho nos protótipos do Mappia e do Aedes Data Lab.
 
 ## Linguagens e ferramentas
 
@@ -23,4 +23,4 @@ Atualmente, desenvolvo os protótipos do **Mappia** e do **Aedes Data Lab**.
 
 ## Atividades acadêmicas
 
-Meus exercícios e atividades de Python estão na pasta [João-Vitor — DISCIPLINACCP2](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor).
+Meus exercícios e atividades de Python estão na pasta [João-Vitor (DISCIPLINACCP2)](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor).
