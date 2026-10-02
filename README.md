@@ -14,7 +14,7 @@ Atualmente, desenvolvo os protótipos do **Mappia** e do **Aedes Data Lab**.
 
 ## Projetos
 
-| Projeto | O que você encontra | Etapa |
+| Projeto | Conteúdo | Etapa |
 | :--- | :--- | :--- |
 | [Aulas de desenvolvimento web](https://github.com/joaovitorregis/Aula-de-Desenvolvimento-web) | PDFs, exemplos e registros de quatro encontros de HTML, CSS e JavaScript. | Materiais publicados |
 | [Automação do ônibus universitário](https://github.com/joaovitorregis/Automacao-WhatsApp-Onibus) | Automação de listas no WhatsApp com Node.js, executada em um celular Android com Termux. | Implantada no Android |
